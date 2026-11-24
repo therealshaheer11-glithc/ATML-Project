@@ -1,0 +1,11 @@
+# torch, numpy, pandas, pyarrow, scipy, transformers, huggingface_hub, safetensors are preinstalled on Kaggle;
+# listed for local runs. No version pins: the code uses only stable APIs.
+torch>=2.3
+transformers>=4.40
+huggingface_hub
+safetensors
+numpy
+pandas
+pyarrow
+scipy
+pytest
